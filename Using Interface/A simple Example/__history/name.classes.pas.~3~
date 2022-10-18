@@ -1,0 +1,16 @@
+unit name.classes;
+
+interface
+
+uses
+  name.interfaces;
+
+type
+    Tperson = class(TInterfacedObject, iName)
+        function FirstName: string;
+        function LastName: string;
+    end;
+
+implementation
+
+end.

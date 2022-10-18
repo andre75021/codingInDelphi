@@ -1,0 +1,13 @@
+unit name.interfaces;
+
+interface
+
+type
+    iName = interface
+        ['{1B5F278C-D09D-4486-9290-49D57B18FBA3}']
+        function FirstName: string;
+        function LastName: string;
+    end;
+implementation
+
+end.
