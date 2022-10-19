@@ -1,17 +1,17 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <BorlandProject>
-  <Transactions>
-    <Transaction>2022/10/17 21:47:08.188,=C:\Users\PCReis\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>2022/10/17 21:53:55.288,F:\Andre\programacao\workspace\Delphi\Coding in Delphi\codingInDelphi\Using Interface\A simple Example\people.view.dfm=C:\Users\PCReis\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
-    <Transaction>2022/10/17 21:53:55.288,F:\Andre\programacao\workspace\Delphi\Coding in Delphi\codingInDelphi\Using Interface\A simple Example\people.view.pas=C:\Users\PCReis\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>2022/10/17 21:54:08.092,F:\Andre\programacao\workspace\Delphi\Coding in Delphi\codingInDelphi\Using Interface\A simple Example\simpleExample.dproj=C:\Users\PCReis\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
-    <Transaction>2022/10/17 21:54:22.296,=F:\Andre\programacao\workspace\Delphi\Coding in Delphi\codingInDelphi\Using Interface\A simple Example\Unit1.pas</Transaction>
-    <Transaction>2022/10/17 21:54:38.272,F:\Andre\programacao\workspace\Delphi\Coding in Delphi\codingInDelphi\Using Interface\A simple Example\people.interfaces.pas=F:\Andre\programacao\workspace\Delphi\Coding in Delphi\codingInDelphi\Using Interface\A simple Example\Unit1.pas</Transaction>
-    <Transaction>2022/10/17 21:54:46.832,=F:\Andre\programacao\workspace\Delphi\Coding in Delphi\codingInDelphi\Using Interface\A simple Example\Unit1.pas</Transaction>
-    <Transaction>2022/10/17 21:55:05.521,F:\Andre\programacao\workspace\Delphi\Coding in Delphi\codingInDelphi\Using Interface\A simple Example\people.classes.pas=F:\Andre\programacao\workspace\Delphi\Coding in Delphi\codingInDelphi\Using Interface\A simple Example\Unit1.pas</Transaction>
-    <Transaction>2022/10/17 21:55:30.370,F:\Andre\programacao\workspace\Delphi\Coding in Delphi\codingInDelphi\Using Interface\A simple Example\name.classes.pas=F:\Andre\programacao\workspace\Delphi\Coding in Delphi\codingInDelphi\Using Interface\A simple Example\people.classes.pas</Transaction>
-    <Transaction>2022/10/17 21:55:43.958,F:\Andre\programacao\workspace\Delphi\Coding in Delphi\codingInDelphi\Using Interface\A simple Example\name.interfaces.pas=F:\Andre\programacao\workspace\Delphi\Coding in Delphi\codingInDelphi\Using Interface\A simple Example\people.interfaces.pas</Transaction>
-    <Transaction>2022/10/17 21:55:53.958,F:\Andre\programacao\workspace\Delphi\Coding in Delphi\codingInDelphi\Using Interface\A simple Example\name.view.pas=F:\Andre\programacao\workspace\Delphi\Coding in Delphi\codingInDelphi\Using Interface\A simple Example\people.view.pas</Transaction>
-    <Transaction>2022/10/17 21:55:53.958,F:\Andre\programacao\workspace\Delphi\Coding in Delphi\codingInDelphi\Using Interface\A simple Example\name.view.dfm=F:\Andre\programacao\workspace\Delphi\Coding in Delphi\codingInDelphi\Using Interface\A simple Example\people.view.dfm</Transaction>
+	<Transactions>
+    <Transaction>2022/10/17 21:47:08.000.188,=C:\Users\PCReis\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/10/17 21:53:55.000.288,C:\Users\PCReis\Documents\Embarcadero\Studio\Projects\Unit1.pas=F:\Andre\programacao\workspace\Delphi\Coding in Delphi\codingInDelphi\Using Interface\A simple Example\people.view.pas</Transaction>
+    <Transaction>2022/10/17 21:53:55.000.288,C:\Users\PCReis\Documents\Embarcadero\Studio\Projects\Unit1.dfm=F:\Andre\programacao\workspace\Delphi\Coding in Delphi\codingInDelphi\Using Interface\A simple Example\people.view.dfm</Transaction>
+    <Transaction>2022/10/17 21:54:08.000.092,C:\Users\PCReis\Documents\Embarcadero\Studio\Projects\Project1.dproj=F:\Andre\programacao\workspace\Delphi\Coding in Delphi\codingInDelphi\Using Interface\A simple Example\simpleExample.dproj</Transaction>
+    <Transaction>2022/10/17 21:54:22.000.296,=F:\Andre\programacao\workspace\Delphi\Coding in Delphi\codingInDelphi\Using Interface\A simple Example\Unit1.pas</Transaction>
+    <Transaction>2022/10/17 21:54:38.000.272,F:\Andre\programacao\workspace\Delphi\Coding in Delphi\codingInDelphi\Using Interface\A simple Example\Unit1.pas=F:\Andre\programacao\workspace\Delphi\Coding in Delphi\codingInDelphi\Using Interface\A simple Example\people.interfaces.pas</Transaction>
+    <Transaction>2022/10/17 21:54:46.000.832,=F:\Andre\programacao\workspace\Delphi\Coding in Delphi\codingInDelphi\Using Interface\A simple Example\Unit1.pas</Transaction>
+    <Transaction>2022/10/17 21:55:05.000.521,F:\Andre\programacao\workspace\Delphi\Coding in Delphi\codingInDelphi\Using Interface\A simple Example\Unit1.pas=F:\Andre\programacao\workspace\Delphi\Coding in Delphi\codingInDelphi\Using Interface\A simple Example\people.classes.pas</Transaction>
+    <Transaction>2022/10/17 21:55:30.000.370,F:\Andre\programacao\workspace\Delphi\Coding in Delphi\codingInDelphi\Using Interface\A simple Example\people.classes.pas=F:\Andre\programacao\workspace\Delphi\Coding in Delphi\codingInDelphi\Using Interface\A simple Example\name.classes.pas</Transaction>
+    <Transaction>2022/10/17 21:55:43.000.958,F:\Andre\programacao\workspace\Delphi\Coding in Delphi\codingInDelphi\Using Interface\A simple Example\people.interfaces.pas=F:\Andre\programacao\workspace\Delphi\Coding in Delphi\codingInDelphi\Using Interface\A simple Example\name.interfaces.pas</Transaction>
+    <Transaction>2022/10/17 21:55:53.000.958,F:\Andre\programacao\workspace\Delphi\Coding in Delphi\codingInDelphi\Using Interface\A simple Example\people.view.dfm=F:\Andre\programacao\workspace\Delphi\Coding in Delphi\codingInDelphi\Using Interface\A simple Example\name.view.dfm</Transaction>
+    <Transaction>2022/10/17 21:55:53.000.958,F:\Andre\programacao\workspace\Delphi\Coding in Delphi\codingInDelphi\Using Interface\A simple Example\people.view.pas=F:\Andre\programacao\workspace\Delphi\Coding in Delphi\codingInDelphi\Using Interface\A simple Example\name.view.pas</Transaction>
   </Transactions>
 </BorlandProject>
